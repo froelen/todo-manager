@@ -1,2 +1,2 @@
-def my-function():
-    print("Hello, World!")
+def my_function():
+    print("This is only a test branch feature!")
