@@ -1,4 +1,5 @@
 <!-- GitAds-Verify: ZNFVQEO4M7Y95PBQUQK85E8E2EDNIYAQ -->
+
 # todo-manager
 
 Easily manage your tasks in a comprehensive to-do list and task viewer.
